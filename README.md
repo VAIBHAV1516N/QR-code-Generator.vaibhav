@@ -4,7 +4,7 @@ A simple and responsive web application that generates QR codes instantly based 
 
 ## 📸 Demo
 
-![QR Code Generator Screenshot](QR Generator.png) <!-- Add your screenshot or remove this line -->
+![QR Code Generator Screenshot](https://github.com/VAIBHAV1516N/QR-code-Generator.vaibhav/blob/main/QR%20Generator%20.png) <!-- Add your screenshot or remove this line -->
 
 ---
 
